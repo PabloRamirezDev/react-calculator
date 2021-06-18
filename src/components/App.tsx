@@ -1,7 +1,8 @@
 import { FC } from "react";
+import Calculator from "./Calculator";
 
 const App: FC = () => {
-  return <div>Hello World!</div>;
+  return <Calculator />;
 };
 
 export default App;
