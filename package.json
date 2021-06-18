@@ -1,0 +1,19 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "description": "Multiple use Calculator made with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloRamirezDev/react-calculator.git"
+  },
+  "author": "PabloRamirezDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloRamirezDev/react-calculator/issues"
+  },
+  "homepage": "https://github.com/PabloRamirezDev/react-calculator#readme"
+}
